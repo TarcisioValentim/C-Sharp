@@ -1,0 +1,34 @@
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-002/bin/Debug/netcoreapp2.1/Aprendendo-C-Sharp.deps.json
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-002/bin/Debug/netcoreapp2.1/Aprendendo-C-Sharp.runtimeconfig.json
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-002/bin/Debug/netcoreapp2.1/Aprendendo-C-Sharp.runtimeconfig.dev.json
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-002/bin/Debug/netcoreapp2.1/Aprendendo-C-Sharp.dll
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-002/bin/Debug/netcoreapp2.1/Aprendendo-C-Sharp.pdb
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-002/obj/Debug/netcoreapp2.1/Aprendendo-C-Sharp.csprojAssemblyReference.cache
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-002/obj/Debug/netcoreapp2.1/Aprendendo-C-Sharp.csproj.CoreCompileInputs.cache
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-002/obj/Debug/netcoreapp2.1/Aprendendo-C-Sharp.AssemblyInfoInputs.cache
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-002/obj/Debug/netcoreapp2.1/Aprendendo-C-Sharp.AssemblyInfo.cs
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-002/obj/Debug/netcoreapp2.1/Aprendendo-C-Sharp.dll
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-002/obj/Debug/netcoreapp2.1/Aprendendo-C-Sharp.pdb
+/home/brenno/Documentos/aprendendo-C-Sharp/Hello-World/bin/Debug/netcoreapp2.1/Aprendendo-C-Sharp.deps.json
+/home/brenno/Documentos/aprendendo-C-Sharp/Hello-World/bin/Debug/netcoreapp2.1/Aprendendo-C-Sharp.runtimeconfig.json
+/home/brenno/Documentos/aprendendo-C-Sharp/Hello-World/bin/Debug/netcoreapp2.1/Aprendendo-C-Sharp.runtimeconfig.dev.json
+/home/brenno/Documentos/aprendendo-C-Sharp/Hello-World/bin/Debug/netcoreapp2.1/Aprendendo-C-Sharp.dll
+/home/brenno/Documentos/aprendendo-C-Sharp/Hello-World/bin/Debug/netcoreapp2.1/Aprendendo-C-Sharp.pdb
+/home/brenno/Documentos/aprendendo-C-Sharp/Hello-World/obj/Debug/netcoreapp2.1/Aprendendo-C-Sharp.csprojAssemblyReference.cache
+/home/brenno/Documentos/aprendendo-C-Sharp/Hello-World/obj/Debug/netcoreapp2.1/Aprendendo-C-Sharp.csproj.CoreCompileInputs.cache
+/home/brenno/Documentos/aprendendo-C-Sharp/Hello-World/obj/Debug/netcoreapp2.1/Aprendendo-C-Sharp.AssemblyInfoInputs.cache
+/home/brenno/Documentos/aprendendo-C-Sharp/Hello-World/obj/Debug/netcoreapp2.1/Aprendendo-C-Sharp.AssemblyInfo.cs
+/home/brenno/Documentos/aprendendo-C-Sharp/Hello-World/obj/Debug/netcoreapp2.1/Aprendendo-C-Sharp.dll
+/home/brenno/Documentos/aprendendo-C-Sharp/Hello-World/obj/Debug/netcoreapp2.1/Aprendendo-C-Sharp.pdb
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Hello-World\bin\Debug\netcoreapp2.1\Aprendendo-C-Sharp.deps.json
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Hello-World\bin\Debug\netcoreapp2.1\Aprendendo-C-Sharp.runtimeconfig.json
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Hello-World\bin\Debug\netcoreapp2.1\Aprendendo-C-Sharp.runtimeconfig.dev.json
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Hello-World\bin\Debug\netcoreapp2.1\Aprendendo-C-Sharp.dll
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Hello-World\bin\Debug\netcoreapp2.1\Aprendendo-C-Sharp.pdb
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Hello-World\obj\Debug\netcoreapp2.1\Aprendendo-C-Sharp.csprojAssemblyReference.cache
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Hello-World\obj\Debug\netcoreapp2.1\Aprendendo-C-Sharp.AssemblyInfoInputs.cache
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Hello-World\obj\Debug\netcoreapp2.1\Aprendendo-C-Sharp.AssemblyInfo.cs
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Hello-World\obj\Debug\netcoreapp2.1\Aprendendo-C-Sharp.csproj.CoreCompileInputs.cache
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Hello-World\obj\Debug\netcoreapp2.1\Aprendendo-C-Sharp.dll
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Hello-World\obj\Debug\netcoreapp2.1\Aprendendo-C-Sharp.pdb
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Hello-World\obj\Debug\netcoreapp2.1\Aprendendo-C-Sharp.genruntimeconfig.cache

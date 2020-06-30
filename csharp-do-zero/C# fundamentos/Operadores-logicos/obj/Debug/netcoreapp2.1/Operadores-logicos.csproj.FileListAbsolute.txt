@@ -1,0 +1,23 @@
+/home/brenno/Documentos/aprendendo-C-Sharp/Operadores-logicos/bin/Debug/netcoreapp2.1/Operadores-logicos.deps.json
+/home/brenno/Documentos/aprendendo-C-Sharp/Operadores-logicos/bin/Debug/netcoreapp2.1/Operadores-logicos.runtimeconfig.json
+/home/brenno/Documentos/aprendendo-C-Sharp/Operadores-logicos/bin/Debug/netcoreapp2.1/Operadores-logicos.runtimeconfig.dev.json
+/home/brenno/Documentos/aprendendo-C-Sharp/Operadores-logicos/bin/Debug/netcoreapp2.1/Operadores-logicos.dll
+/home/brenno/Documentos/aprendendo-C-Sharp/Operadores-logicos/bin/Debug/netcoreapp2.1/Operadores-logicos.pdb
+/home/brenno/Documentos/aprendendo-C-Sharp/Operadores-logicos/obj/Debug/netcoreapp2.1/Operadores-logicos.csprojAssemblyReference.cache
+/home/brenno/Documentos/aprendendo-C-Sharp/Operadores-logicos/obj/Debug/netcoreapp2.1/Operadores-logicos.csproj.CoreCompileInputs.cache
+/home/brenno/Documentos/aprendendo-C-Sharp/Operadores-logicos/obj/Debug/netcoreapp2.1/Operadores-logicos.AssemblyInfoInputs.cache
+/home/brenno/Documentos/aprendendo-C-Sharp/Operadores-logicos/obj/Debug/netcoreapp2.1/Operadores-logicos.AssemblyInfo.cs
+/home/brenno/Documentos/aprendendo-C-Sharp/Operadores-logicos/obj/Debug/netcoreapp2.1/Operadores-logicos.dll
+/home/brenno/Documentos/aprendendo-C-Sharp/Operadores-logicos/obj/Debug/netcoreapp2.1/Operadores-logicos.pdb
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Operadores-logicos\bin\Debug\netcoreapp2.1\Operadores-logicos.deps.json
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Operadores-logicos\bin\Debug\netcoreapp2.1\Operadores-logicos.runtimeconfig.json
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Operadores-logicos\bin\Debug\netcoreapp2.1\Operadores-logicos.runtimeconfig.dev.json
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Operadores-logicos\bin\Debug\netcoreapp2.1\Operadores-logicos.dll
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Operadores-logicos\bin\Debug\netcoreapp2.1\Operadores-logicos.pdb
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Operadores-logicos\obj\Debug\netcoreapp2.1\Operadores-logicos.csprojAssemblyReference.cache
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Operadores-logicos\obj\Debug\netcoreapp2.1\Operadores-logicos.AssemblyInfoInputs.cache
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Operadores-logicos\obj\Debug\netcoreapp2.1\Operadores-logicos.AssemblyInfo.cs
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Operadores-logicos\obj\Debug\netcoreapp2.1\Operadores-logicos.csproj.CoreCompileInputs.cache
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Operadores-logicos\obj\Debug\netcoreapp2.1\Operadores-logicos.dll
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Operadores-logicos\obj\Debug\netcoreapp2.1\Operadores-logicos.pdb
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Operadores-logicos\obj\Debug\netcoreapp2.1\Operadores-logicos.genruntimeconfig.cache

@@ -1,0 +1,34 @@
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-008/Entrada-Dados/bin/Debug/netcoreapp2.1/Entrada-Dados.deps.json
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-008/Entrada-Dados/bin/Debug/netcoreapp2.1/Entrada-Dados.runtimeconfig.json
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-008/Entrada-Dados/bin/Debug/netcoreapp2.1/Entrada-Dados.runtimeconfig.dev.json
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-008/Entrada-Dados/bin/Debug/netcoreapp2.1/Entrada-Dados.dll
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-008/Entrada-Dados/bin/Debug/netcoreapp2.1/Entrada-Dados.pdb
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-008/Entrada-Dados/obj/Debug/netcoreapp2.1/Entrada-Dados.csprojAssemblyReference.cache
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-008/Entrada-Dados/obj/Debug/netcoreapp2.1/Entrada-Dados.csproj.CoreCompileInputs.cache
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-008/Entrada-Dados/obj/Debug/netcoreapp2.1/Entrada-Dados.AssemblyInfoInputs.cache
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-008/Entrada-Dados/obj/Debug/netcoreapp2.1/Entrada-Dados.AssemblyInfo.cs
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-008/Entrada-Dados/obj/Debug/netcoreapp2.1/Entrada-Dados.dll
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-008/Entrada-Dados/obj/Debug/netcoreapp2.1/Entrada-Dados.pdb
+/home/brenno/Documentos/Aprendendo-C-Sharp/Entrada-Dados/bin/Debug/netcoreapp2.1/Entrada-Dados.deps.json
+/home/brenno/Documentos/Aprendendo-C-Sharp/Entrada-Dados/bin/Debug/netcoreapp2.1/Entrada-Dados.runtimeconfig.json
+/home/brenno/Documentos/Aprendendo-C-Sharp/Entrada-Dados/bin/Debug/netcoreapp2.1/Entrada-Dados.runtimeconfig.dev.json
+/home/brenno/Documentos/Aprendendo-C-Sharp/Entrada-Dados/bin/Debug/netcoreapp2.1/Entrada-Dados.dll
+/home/brenno/Documentos/Aprendendo-C-Sharp/Entrada-Dados/bin/Debug/netcoreapp2.1/Entrada-Dados.pdb
+/home/brenno/Documentos/Aprendendo-C-Sharp/Entrada-Dados/obj/Debug/netcoreapp2.1/Entrada-Dados.csprojAssemblyReference.cache
+/home/brenno/Documentos/Aprendendo-C-Sharp/Entrada-Dados/obj/Debug/netcoreapp2.1/Entrada-Dados.csproj.CoreCompileInputs.cache
+/home/brenno/Documentos/Aprendendo-C-Sharp/Entrada-Dados/obj/Debug/netcoreapp2.1/Entrada-Dados.AssemblyInfoInputs.cache
+/home/brenno/Documentos/Aprendendo-C-Sharp/Entrada-Dados/obj/Debug/netcoreapp2.1/Entrada-Dados.AssemblyInfo.cs
+/home/brenno/Documentos/Aprendendo-C-Sharp/Entrada-Dados/obj/Debug/netcoreapp2.1/Entrada-Dados.dll
+/home/brenno/Documentos/Aprendendo-C-Sharp/Entrada-Dados/obj/Debug/netcoreapp2.1/Entrada-Dados.pdb
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Entrada-Dados\obj\Debug\netcoreapp2.1\Entrada-Dados.csprojAssemblyReference.cache
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Entrada-Dados\obj\Debug\netcoreapp2.1\Entrada-Dados.AssemblyInfoInputs.cache
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Entrada-Dados\obj\Debug\netcoreapp2.1\Entrada-Dados.AssemblyInfo.cs
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Entrada-Dados\obj\Debug\netcoreapp2.1\Entrada-Dados.csproj.CoreCompileInputs.cache
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Entrada-Dados\obj\Debug\netcoreapp2.1\Entrada-Dados.dll
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Entrada-Dados\obj\Debug\netcoreapp2.1\Entrada-Dados.pdb
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Entrada-Dados\bin\Debug\netcoreapp2.1\Entrada-Dados.deps.json
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Entrada-Dados\bin\Debug\netcoreapp2.1\Entrada-Dados.runtimeconfig.json
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Entrada-Dados\bin\Debug\netcoreapp2.1\Entrada-Dados.runtimeconfig.dev.json
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Entrada-Dados\bin\Debug\netcoreapp2.1\Entrada-Dados.dll
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Entrada-Dados\bin\Debug\netcoreapp2.1\Entrada-Dados.pdb
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Entrada-Dados\obj\Debug\netcoreapp2.1\Entrada-Dados.genruntimeconfig.cache

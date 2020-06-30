@@ -1,0 +1,11 @@
+/home/brenno/Documentos/aprendendo-C-Sharp/Exemplo-media/bin/Debug/netcoreapp2.1/Exemplo-media.deps.json
+/home/brenno/Documentos/aprendendo-C-Sharp/Exemplo-media/bin/Debug/netcoreapp2.1/Exemplo-media.runtimeconfig.json
+/home/brenno/Documentos/aprendendo-C-Sharp/Exemplo-media/bin/Debug/netcoreapp2.1/Exemplo-media.runtimeconfig.dev.json
+/home/brenno/Documentos/aprendendo-C-Sharp/Exemplo-media/bin/Debug/netcoreapp2.1/Exemplo-media.dll
+/home/brenno/Documentos/aprendendo-C-Sharp/Exemplo-media/bin/Debug/netcoreapp2.1/Exemplo-media.pdb
+/home/brenno/Documentos/aprendendo-C-Sharp/Exemplo-media/obj/Debug/netcoreapp2.1/Exemplo-media.csprojAssemblyReference.cache
+/home/brenno/Documentos/aprendendo-C-Sharp/Exemplo-media/obj/Debug/netcoreapp2.1/Exemplo-media.csproj.CoreCompileInputs.cache
+/home/brenno/Documentos/aprendendo-C-Sharp/Exemplo-media/obj/Debug/netcoreapp2.1/Exemplo-media.AssemblyInfoInputs.cache
+/home/brenno/Documentos/aprendendo-C-Sharp/Exemplo-media/obj/Debug/netcoreapp2.1/Exemplo-media.AssemblyInfo.cs
+/home/brenno/Documentos/aprendendo-C-Sharp/Exemplo-media/obj/Debug/netcoreapp2.1/Exemplo-media.dll
+/home/brenno/Documentos/aprendendo-C-Sharp/Exemplo-media/obj/Debug/netcoreapp2.1/Exemplo-media.pdb

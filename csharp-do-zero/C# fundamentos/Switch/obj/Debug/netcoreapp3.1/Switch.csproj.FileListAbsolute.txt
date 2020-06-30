@@ -1,0 +1,13 @@
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Switch\obj\Debug\netcoreapp3.1\Switch.csprojAssemblyReference.cache
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Switch\obj\Debug\netcoreapp3.1\Switch.AssemblyInfoInputs.cache
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Switch\obj\Debug\netcoreapp3.1\Switch.AssemblyInfo.cs
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Switch\obj\Debug\netcoreapp3.1\Switch.csproj.CoreCompileInputs.cache
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Switch\bin\Debug\netcoreapp3.1\Switch.exe
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Switch\bin\Debug\netcoreapp3.1\Switch.deps.json
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Switch\bin\Debug\netcoreapp3.1\Switch.runtimeconfig.json
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Switch\bin\Debug\netcoreapp3.1\Switch.runtimeconfig.dev.json
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Switch\bin\Debug\netcoreapp3.1\Switch.dll
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Switch\bin\Debug\netcoreapp3.1\Switch.pdb
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Switch\obj\Debug\netcoreapp3.1\Switch.dll
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Switch\obj\Debug\netcoreapp3.1\Switch.pdb
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Switch\obj\Debug\netcoreapp3.1\Switch.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+/home/brenno/Documentos/Aprendendo-C-Sharp/Tomada-de-Decisao/bin/Debug/netcoreapp2.1/Tomada-de-Decisao.deps.json
+/home/brenno/Documentos/Aprendendo-C-Sharp/Tomada-de-Decisao/bin/Debug/netcoreapp2.1/Tomada-de-Decisao.runtimeconfig.json
+/home/brenno/Documentos/Aprendendo-C-Sharp/Tomada-de-Decisao/bin/Debug/netcoreapp2.1/Tomada-de-Decisao.runtimeconfig.dev.json
+/home/brenno/Documentos/Aprendendo-C-Sharp/Tomada-de-Decisao/bin/Debug/netcoreapp2.1/Tomada-de-Decisao.dll
+/home/brenno/Documentos/Aprendendo-C-Sharp/Tomada-de-Decisao/bin/Debug/netcoreapp2.1/Tomada-de-Decisao.pdb
+/home/brenno/Documentos/Aprendendo-C-Sharp/Tomada-de-Decisao/obj/Debug/netcoreapp2.1/Tomada-de-Decisao.csprojAssemblyReference.cache
+/home/brenno/Documentos/Aprendendo-C-Sharp/Tomada-de-Decisao/obj/Debug/netcoreapp2.1/Tomada-de-Decisao.csproj.CoreCompileInputs.cache
+/home/brenno/Documentos/Aprendendo-C-Sharp/Tomada-de-Decisao/obj/Debug/netcoreapp2.1/Tomada-de-Decisao.AssemblyInfoInputs.cache
+/home/brenno/Documentos/Aprendendo-C-Sharp/Tomada-de-Decisao/obj/Debug/netcoreapp2.1/Tomada-de-Decisao.AssemblyInfo.cs
+/home/brenno/Documentos/Aprendendo-C-Sharp/Tomada-de-Decisao/obj/Debug/netcoreapp2.1/Tomada-de-Decisao.dll
+/home/brenno/Documentos/Aprendendo-C-Sharp/Tomada-de-Decisao/obj/Debug/netcoreapp2.1/Tomada-de-Decisao.pdb

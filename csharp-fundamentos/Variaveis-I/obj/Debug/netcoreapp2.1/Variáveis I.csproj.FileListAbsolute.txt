@@ -1,0 +1,22 @@
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-005/Variáveis I/bin/Debug/netcoreapp2.1/Variáveis I.deps.json
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-005/Variáveis I/bin/Debug/netcoreapp2.1/Variáveis I.runtimeconfig.json
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-005/Variáveis I/bin/Debug/netcoreapp2.1/Variáveis I.runtimeconfig.dev.json
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-005/Variáveis I/bin/Debug/netcoreapp2.1/Variáveis I.dll
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-005/Variáveis I/bin/Debug/netcoreapp2.1/Variáveis I.pdb
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-005/Variáveis I/obj/Debug/netcoreapp2.1/Variáveis I.csprojAssemblyReference.cache
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-005/Variáveis I/obj/Debug/netcoreapp2.1/Variáveis I.csproj.CoreCompileInputs.cache
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-005/Variáveis I/obj/Debug/netcoreapp2.1/Variáveis I.AssemblyInfoInputs.cache
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-005/Variáveis I/obj/Debug/netcoreapp2.1/Variáveis I.AssemblyInfo.cs
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-005/Variáveis I/obj/Debug/netcoreapp2.1/Variáveis I.dll
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-005/Variáveis I/obj/Debug/netcoreapp2.1/Variáveis I.pdb
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-005/Variaveis-I/bin/Debug/netcoreapp2.1/Variáveis I.deps.json
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-005/Variaveis-I/bin/Debug/netcoreapp2.1/Variáveis I.runtimeconfig.json
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-005/Variaveis-I/bin/Debug/netcoreapp2.1/Variáveis I.runtimeconfig.dev.json
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-005/Variaveis-I/bin/Debug/netcoreapp2.1/Variáveis I.dll
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-005/Variaveis-I/bin/Debug/netcoreapp2.1/Variáveis I.pdb
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-005/Variaveis-I/obj/Debug/netcoreapp2.1/Variáveis I.csprojAssemblyReference.cache
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-005/Variaveis-I/obj/Debug/netcoreapp2.1/Variáveis I.csproj.CoreCompileInputs.cache
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-005/Variaveis-I/obj/Debug/netcoreapp2.1/Variáveis I.AssemblyInfoInputs.cache
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-005/Variaveis-I/obj/Debug/netcoreapp2.1/Variáveis I.AssemblyInfo.cs
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-005/Variaveis-I/obj/Debug/netcoreapp2.1/Variáveis I.dll
+/home/brenno/Documentos/Aprendendo-C-Sharp/Aula-005/Variaveis-I/obj/Debug/netcoreapp2.1/Variáveis I.pdb

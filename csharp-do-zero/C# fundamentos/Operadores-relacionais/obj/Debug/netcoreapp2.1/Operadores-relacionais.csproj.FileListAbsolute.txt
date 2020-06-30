@@ -1,0 +1,11 @@
+/home/brenno/Documentos/Aprendendo-C-Sharp/Operadores-relacionais/bin/Debug/netcoreapp2.1/Operadores-relacionais.deps.json
+/home/brenno/Documentos/Aprendendo-C-Sharp/Operadores-relacionais/bin/Debug/netcoreapp2.1/Operadores-relacionais.runtimeconfig.json
+/home/brenno/Documentos/Aprendendo-C-Sharp/Operadores-relacionais/bin/Debug/netcoreapp2.1/Operadores-relacionais.runtimeconfig.dev.json
+/home/brenno/Documentos/Aprendendo-C-Sharp/Operadores-relacionais/bin/Debug/netcoreapp2.1/Operadores-relacionais.dll
+/home/brenno/Documentos/Aprendendo-C-Sharp/Operadores-relacionais/bin/Debug/netcoreapp2.1/Operadores-relacionais.pdb
+/home/brenno/Documentos/Aprendendo-C-Sharp/Operadores-relacionais/obj/Debug/netcoreapp2.1/Operadores-relacionais.csprojAssemblyReference.cache
+/home/brenno/Documentos/Aprendendo-C-Sharp/Operadores-relacionais/obj/Debug/netcoreapp2.1/Operadores-relacionais.csproj.CoreCompileInputs.cache
+/home/brenno/Documentos/Aprendendo-C-Sharp/Operadores-relacionais/obj/Debug/netcoreapp2.1/Operadores-relacionais.AssemblyInfoInputs.cache
+/home/brenno/Documentos/Aprendendo-C-Sharp/Operadores-relacionais/obj/Debug/netcoreapp2.1/Operadores-relacionais.AssemblyInfo.cs
+/home/brenno/Documentos/Aprendendo-C-Sharp/Operadores-relacionais/obj/Debug/netcoreapp2.1/Operadores-relacionais.dll
+/home/brenno/Documentos/Aprendendo-C-Sharp/Operadores-relacionais/obj/Debug/netcoreapp2.1/Operadores-relacionais.pdb

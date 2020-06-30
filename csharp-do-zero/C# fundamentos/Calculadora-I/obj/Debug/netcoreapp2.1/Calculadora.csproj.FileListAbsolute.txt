@@ -1,0 +1,35 @@
+/home/brenno/Documentos/Aprendendo-C-Sharp/Calculadora/bin/Debug/netcoreapp2.1/Calculadora.deps.json
+/home/brenno/Documentos/Aprendendo-C-Sharp/Calculadora/bin/Debug/netcoreapp2.1/Calculadora.runtimeconfig.json
+/home/brenno/Documentos/Aprendendo-C-Sharp/Calculadora/bin/Debug/netcoreapp2.1/Calculadora.runtimeconfig.dev.json
+/home/brenno/Documentos/Aprendendo-C-Sharp/Calculadora/bin/Debug/netcoreapp2.1/Calculadora.dll
+/home/brenno/Documentos/Aprendendo-C-Sharp/Calculadora/bin/Debug/netcoreapp2.1/Calculadora.pdb
+/home/brenno/Documentos/Aprendendo-C-Sharp/Calculadora/obj/Debug/netcoreapp2.1/Calculadora.csprojAssemblyReference.cache
+/home/brenno/Documentos/Aprendendo-C-Sharp/Calculadora/obj/Debug/netcoreapp2.1/Calculadora.csproj.CoreCompileInputs.cache
+/home/brenno/Documentos/Aprendendo-C-Sharp/Calculadora/obj/Debug/netcoreapp2.1/Calculadora.AssemblyInfoInputs.cache
+/home/brenno/Documentos/Aprendendo-C-Sharp/Calculadora/obj/Debug/netcoreapp2.1/Calculadora.AssemblyInfo.cs
+/home/brenno/Documentos/Aprendendo-C-Sharp/Calculadora/obj/Debug/netcoreapp2.1/Calculadora.dll
+/home/brenno/Documentos/Aprendendo-C-Sharp/Calculadora/obj/Debug/netcoreapp2.1/Calculadora.pdb
+/home/brenno/Área de Trabalho/repositorios-Git/aprendendo-dot-NET-Core-e-C-Sharp/Calculadora-I/bin/Debug/netcoreapp2.1/Calculadora.deps.json
+/home/brenno/Área de Trabalho/repositorios-Git/aprendendo-dot-NET-Core-e-C-Sharp/Calculadora-I/bin/Debug/netcoreapp2.1/Calculadora.runtimeconfig.json
+/home/brenno/Área de Trabalho/repositorios-Git/aprendendo-dot-NET-Core-e-C-Sharp/Calculadora-I/bin/Debug/netcoreapp2.1/Calculadora.runtimeconfig.dev.json
+/home/brenno/Área de Trabalho/repositorios-Git/aprendendo-dot-NET-Core-e-C-Sharp/Calculadora-I/bin/Debug/netcoreapp2.1/Calculadora.dll
+/home/brenno/Área de Trabalho/repositorios-Git/aprendendo-dot-NET-Core-e-C-Sharp/Calculadora-I/bin/Debug/netcoreapp2.1/Calculadora.pdb
+/home/brenno/Área de Trabalho/repositorios-Git/aprendendo-dot-NET-Core-e-C-Sharp/Calculadora-I/obj/Debug/netcoreapp2.1/Calculadora.csprojAssemblyReference.cache
+/home/brenno/Área de Trabalho/repositorios-Git/aprendendo-dot-NET-Core-e-C-Sharp/Calculadora-I/obj/Debug/netcoreapp2.1/Calculadora.AssemblyInfoInputs.cache
+/home/brenno/Área de Trabalho/repositorios-Git/aprendendo-dot-NET-Core-e-C-Sharp/Calculadora-I/obj/Debug/netcoreapp2.1/Calculadora.AssemblyInfo.cs
+/home/brenno/Área de Trabalho/repositorios-Git/aprendendo-dot-NET-Core-e-C-Sharp/Calculadora-I/obj/Debug/netcoreapp2.1/Calculadora.csproj.CoreCompileInputs.cache
+/home/brenno/Área de Trabalho/repositorios-Git/aprendendo-dot-NET-Core-e-C-Sharp/Calculadora-I/obj/Debug/netcoreapp2.1/Calculadora.dll
+/home/brenno/Área de Trabalho/repositorios-Git/aprendendo-dot-NET-Core-e-C-Sharp/Calculadora-I/obj/Debug/netcoreapp2.1/Calculadora.pdb
+/home/brenno/Área de Trabalho/repositorios-Git/aprendendo-dot-NET-Core-e-C-Sharp/Calculadora-I/obj/Debug/netcoreapp2.1/Calculadora.genruntimeconfig.cache
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Calculadora-I\bin\Debug\netcoreapp2.1\Calculadora.deps.json
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Calculadora-I\bin\Debug\netcoreapp2.1\Calculadora.runtimeconfig.json
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Calculadora-I\bin\Debug\netcoreapp2.1\Calculadora.runtimeconfig.dev.json
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Calculadora-I\bin\Debug\netcoreapp2.1\Calculadora.dll
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Calculadora-I\bin\Debug\netcoreapp2.1\Calculadora.pdb
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Calculadora-I\obj\Debug\netcoreapp2.1\Calculadora.csprojAssemblyReference.cache
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Calculadora-I\obj\Debug\netcoreapp2.1\Calculadora.AssemblyInfoInputs.cache
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Calculadora-I\obj\Debug\netcoreapp2.1\Calculadora.AssemblyInfo.cs
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Calculadora-I\obj\Debug\netcoreapp2.1\Calculadora.csproj.CoreCompileInputs.cache
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Calculadora-I\obj\Debug\netcoreapp2.1\Calculadora.dll
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Calculadora-I\obj\Debug\netcoreapp2.1\Calculadora.pdb
+D:\D.I.O\Aprendendo-csharp-do-zero\codigos de estudo do C#\Calculadora-I\obj\Debug\netcoreapp2.1\Calculadora.genruntimeconfig.cache
